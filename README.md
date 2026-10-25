@@ -1,7 +1,5 @@
 # 🛡️ Quantum Phishing Detection using QSVM
 
-Ahmad/Tim Kelompok - Departemen Teknologi Informasi, ITS
-Tugas Kelompok: Komputasi Kuantum untuk Keamanan Siber (Semester Gasal 2026/2027)
 
 ## 📌 Deskripsi Proyek
 Proyek ini mengimplementasikan **Quantum Support Vector Machine (QSVM)** untuk mendeteksi website phishing. Kami memanfaatkan mekanika kuantum seperti *superposisi* dan *entanglement* untuk memetakan data fitur klasik ke dalam ruang keadaan kuantum (Hilbert Space) guna menemukan pola klasifikasi yang optimal.
